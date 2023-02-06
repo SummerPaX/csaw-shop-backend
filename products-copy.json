@@ -1,0 +1,499 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Apple iPhone 12 Pro Max",
+      "price": 1099,
+      "description": "The latest iPhone with a 6.7-inch Super Retina XDR display, A14 Bionic chip, Pro camera system, and Ceramic Shield front cover.",
+      "tags": [
+        "Smartphone"
+      ],
+      "brand": "Apple",
+      "image": "https://files.refurbed.com/ii/iphone-12-pro-max-1607342019.jpg?t=resize&h=600&w=800"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21 Ultra 5G",
+      "price": 1199,
+      "description": "The latest Samsung flagship with a 6.8-inch Dynamic AMOLED 2X display, Exynos 2100 or Snapdragon 888 processor, and 5G connectivity.",
+      "tags": [
+        "Smartphone"
+      ],
+      "brand": "Samsung",
+      "image": "https://files.refurbed.com/ii/samsung-galaxy-s21-ultra-5g-1612247669.jpg?t=resize&h=600&w=800"
+    },
+    {
+      "id": 3,
+      "name": "OnePlus 9 Pro",
+      "price": 799,
+      "description": "A high-performance phone with 6.7-inch AMOLED display, Snapdragon 888 processor, and 5G connectivity.",
+      "tags": [
+        "Smartphone"
+      ],
+      "brand": "OnePlus",
+      "image": "https://files.refurbed.com/ii/oneplus-9-pro-1666678054.jpg?t=resize&h=600&w=800"
+    },
+    {
+      "id": 4,
+      "name": "Google Pixel 6",
+      "price": 699,
+      "description": "The latest Google phone with 6.4-inch OLED display, Titan M security chip, and Google Assistant integration.",
+      "tags": [
+        "Smartphone"
+      ],
+      "brand": "Google",
+      "image": "https://files.refurbed.com/ii/google-pixel-6-1646402539.jpg?t=resize&h=600&w=800"
+    },
+    {
+      "id": 5,
+      "name": "Motorola Edge Plus",
+      "price": 649,
+      "description": "A flagship phone with 6.7-inch OLED waterfall display, Snapdragon 888 processor, and 5G connectivity.",
+      "tags": [
+        "Smartphone"
+      ],
+      "brand": "Motorola",
+      "image": "https://www.starcity.pk/wp-content/uploads/2022/03/motorola-edge-plus-1-510x510.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Microsoft Surface Laptop 4",
+      "price": 899,
+      "description": "A premium laptop with a sleek design and long battery life, available with 11th Gen Intel Core processors or AMD Ryzen Mobile processors.",
+      "tags": [
+        "Laptop"
+      ],
+      "brand": "Microsoft",
+      "image": "https://files.refurbed.com/ii/ms-surface-laptop-4-1185g7-15-1674656941.jpg?t=resize&h=600&w=800"
+    },
+    {
+      "id": 7,
+      "name": "Apple MacBook Air M2",
+      "price": 999,
+      "description": "The latest MacBook Air with a Retina display, Apple M2 chip, and up to 18 hours of battery life.",
+      "tags": [
+        "Laptop"
+      ],
+      "brand": "Apple",
+      "image": "https://files.refurbed.com/ii/apple-macbook-air-m2-2022-1675077202.jpg?t=resize&h=600&w=800"
+    },
+    {
+      "id": 8,
+      "name": "Razer Blade Pro 17",
+      "price": 2999,
+      "description": "A high-performance gaming laptop with 17-inch 4K OLED touch display, 10th Gen Intel Core i7 processor, and NVIDIA RTX graphics.",
+      "tags": [
+        "Laptop"
+      ],
+      "brand": "Razer",
+      "image": "https://media.nbb-cdn.de/images/products/750000/753703/Razer_Blade_15__CH8__006_5_687c.jpg?size=800"
+    },
+    {
+      "id": 9,
+      "name": "Apple MacBook Pro 16-inch",
+      "price": 2199,
+      "description": "The latest MacBook Pro with 16-inch Retina display, 9th Gen 8-core Intel Core i9 processor, and dedicated graphics card.",
+      "tags": [
+        "Laptop"
+      ],
+      "brand": "Apple",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp16-spacegray-gallery1-202301?wid=1000"
+    },
+    {
+      "id": 10,
+      "name": "ASUS ROG Zephyrus G15",
+      "price": 1199,
+      "description": "A slim gaming laptop with 15-inch Full HD display, AMD Ryzen 9 processor, and NVIDIA GeForce RTX graphics.",
+      "tags": [
+        "Laptop"
+      ],
+      "brand": "ASUS",
+      "image": "https://dlcdnwebimgs.asus.com/gain/67B5B76B-7549-4AE5-A482-0EFF53A11B9E/w1000/h732"
+    },
+    {
+      "id": 11,
+      "name": "Amazon Echo Dot (4th Gen)",
+      "price": 49.99,
+      "description": "The latest version of Amazon's popular smart speaker, with improved sound and a new spherical design.",
+      "tags": [
+        "Smart Speaker"
+      ],
+      "brand": "Amazon",
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_77574176/fee_786_587_png"
+    },
+    {
+      "id": 12,
+      "name": "Google Nest Hub (2nd Gen)",
+      "price": 89.99,
+      "description": "The second generation of Google's smart display, with a larger screen and improved cameras for video calls.",
+      "tags": [
+        "Smart Speaker"
+      ],
+      "brand": "Google",
+      "image": "https://www.galaxus.at/im/Files/4/5/4/9/3/1/2/2/200143033_xxl3.jpg?impolicy=ProductTileImage&resizeWidth=648&resizeHeight=486&cropWidth=648&cropHeight=486&resizeType=downsize&quality=high"
+    },
+    {
+      "id": 13,
+      "name": "Bose QuietComfort 35 II",
+      "price": 349.99,
+      "description": "A premium pair of noise-cancelling headphones with Alexa and Google Assistant built-in.",
+      "tags": [
+        "Headphones"
+      ],
+      "brand": "Bose",
+      "image": "https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc35_ii/product_silo_images/qc35_ii_black_EC_hero.PNG/jcr:content/renditions/cq5dam.web.1280.1280.png"
+    },
+    {
+      "id": 14,
+      "name": "Sony WH-1000XM4",
+      "price": 349.99,
+      "description": "A premium pair of noise-cancelling headphones with Alexa and Google Assistant built-in.",
+      "tags": [
+        "Headphones"
+      ],
+      "brand": "Sony",
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_76255117/fee_786_587_png"
+    },
+    {
+      "id": 15,
+      "name": "GoPro HERO 9 Black",
+      "price": 449.99,
+      "description": "The latest action camera from GoPro, with 5K video, 20MP photos, front display, and HyperSmooth 3.0 video stabilization.",
+      "tags": [
+        "Camera"
+      ],
+      "brand": "GoPro",
+      "image": "https://static.gopro.com/assets/blta2b8522e5372af40/blte67f3d03a42f605a/6116fb12cf33c613b2c060b3/pdp-h9b-gallery-angle-1920-2x.png?width=1920&quality=80&auto=webp&disable=upscale"
+    },
+    {
+      "id": 16,
+      "name": "Canon EOS R5",
+      "price": 3899,
+      "description": "A full-frame mirrorless camera with 45 megapixel sensor, fast autofocus, and 8K video recording.",
+      "tags": [
+        "Camera"
+      ],
+      "brand": "Canon",
+      "image": "https://i1.adis.ws/i/canon/eos-r5_front_body_square_9f60d3f47e2c4b59a2efe3ea0c95aa02?$prod-gallery-1by1$"
+    },
+    {
+      "id": 17,
+      "name": "Nikon Z7 II",
+      "price": 2999,
+      "description": "A full-frame mirrorless camera with 45.7 megapixel sensor, 5-axis in-body image stabilization, and 4K video recording.",
+      "tags": [
+        "Camera"
+      ],
+      "brand": "Nikon",
+      "image": "https://shop.lamprechter.com/thumbnail/ab/69/cc/1632311817/nikon_dika_z7_ii__24704_kit_32876_1920x1920.png"
+    },
+    {
+      "id": 18,
+      "name": "Sony A7S III",
+      "price": 3498,
+      "description": "A full-frame mirrorless camera with 12 megapixel sensor, 4K 120p video recording, and advanced autofocus system.",
+      "tags": [
+        "Camera"
+      ],
+      "brand": "Sony",
+      "image": "https://www.ephotozine.com/resize/articles/35008/1000-Sony-A7S-III-17_1601301376.jpg?RTUdGk5cXyJFCgsJVANtdxU+cVRdHxFYFw1Gewk0T1JYFEtzen5YdgthHHsyBFtG"
+    },
+    {
+      "id": 19,
+      "name": "Adobe Creative Cloud All Apps Plan - Monthly Subscription",
+      "price": 52.99,
+      "description": "Get access to all 20+ Adobe creative desktop and mobile apps, including Photoshop, Illustrator, InDesign, and more.",
+      "tags": [
+        "Software"
+      ],
+      "brand": "Adobe",
+      "image": "https://www.adobe.com/content/dam/shared/images/product-icons/svg/creative-cloud.svg"
+    },
+    {
+      "id": 20,
+      "name": "Microsoft Office 365 Home - Monthly Subscription",
+      "price": 99.99,
+      "description": "Get the latest version of Microsoft Office, including Word, Excel, PowerPoint, and more, for up to 6 PCs or Macs.",
+      "tags": [
+        "Software"
+      ],
+      "brand": "Microsoft",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019–present%29.svg"
+    },
+    {
+      "id": 21,
+      "name": "iPad Pro 11-inch",
+      "price": 799,
+      "description": "The latest iPad Pro with 11-inch Liquid Retina display, A12Z Bionic chip, and ProMotion technology.",
+      "tags": [
+        "Tablet"
+      ],
+      "brand": "Apple",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-ipad-pro-11-wifi-spacegray-2020?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1627667236000"
+    },
+    {
+      "id": 22,
+      "name": "Samsung Galaxy Tab S7",
+      "price": 599,
+      "description": "A high-performance tablet with 11-inch Super AMOLED display, Snapdragon 865 Plus processor, and 5G connectivity.",
+      "tags": [
+        "Tablet"
+      ],
+      "brand": "Samsung",
+      "image": "https://files.refurbed.com/ii/samsung-glxy-tab-s7-1653652371.jpg?t=resize&h=600&w=800"
+    },
+    {
+      "id": 23,
+      "name": "Microsoft Surface Pro 7",
+      "price": 799,
+      "description": "A versatile tablet with 12.3-inch PixelSense display, Intel Core i5 processor, and Windows 10 operating system.",
+      "tags": [
+        "Tablet"
+      ],
+      "brand": "Microsoft",
+      "image": "https://files.refurbed.com/ii/microsoft-surface-pro-7-1035g4-1657711113.jpg?t=resize&h=600&w=800"
+    },
+    {
+      "id": 24,
+      "name": "Amazon Fire HD 10",
+      "price": 149,
+      "description": "A budget-friendly tablet with 10-inch HD display, quad-core processor, and Alexa voice control.",
+      "tags": [
+        "Tablet"
+      ],
+      "brand": "Amazon",
+      "image": "https://www.notebookcheck.com/fileadmin/_processed_/2/2/csm_Intro_Amazon_Fire_HD_10_2017_2371deda4d.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Lenovo Yoga Tablet",
+      "price": 299,
+      "description": "A 2-in-1 tablet with 10.1-inch FHD display, octa-core processor, and flexible stand design.",
+      "tags": [
+        "Tablet"
+      ],
+      "brand": "Lenovo",
+      "image": "https://www.notebookcheck.com/fileadmin/_processed_/csm_Lenovo_Yoga_Tablet_2_Pro_13_A_Hero__f2f2f62b38.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Samsung Galaxy Tab S7 +",
+      "price": 699,
+      "description": "A premium tablet with 12,4-inch AMOLED display, Snapdragon 865+ processor, and 5G connectivity.",
+      "tags": [
+        "Tablet"
+      ],
+      "brand": "Samsung",
+      "image": "https://files.refurbed.com/ii/samsung-glxy-tab-s7-plus-t976-1666339932.jpg?t=resize&h=600&w=800"
+    },
+    {
+      "id": 27,
+      "name": "iPad Pro (11-inch, Wi-Fi + Cellular)",
+      "price": 799,
+      "description": "A high-performance tablet with 11-inch Liquid Retina display, A12Z Bionic chip, and Face ID.",
+      "tags": [
+        "Tablet"
+      ],
+      "brand": "Apple",
+      "image": "https://files.refurbed.com/ii/64-gb-spacegrau-wifi-1563859118.jpg?t=resize&h=600&w=800"
+    },
+    {
+      "id": 28,
+      "name": "Huawei MatePad T8",
+      "price": 199,
+      "description": "An affordable tablet with 8-inch HD display, octa-core processor, and kids mode.",
+      "tags": [
+        "Tablet"
+      ],
+      "brand": "Huawei",
+      "image": "https://static10.edstatic.net/product_images/470x470/resize/02-qny7qup5_u8yf9thr.jpg?v=1"
+    },
+    {
+      "id": 29,
+      "name": "Microsoft Surface Go 2",
+      "price": 399,
+      "description": "A versatile tablet with 10.5-inch PixelSense display, Intel Pentium Gold processor, and Type Cover support.",
+      "tags": [
+        "Tablet"
+      ],
+      "brand": "Microsoft",
+      "image": "https://files.refurbed.com/pi/microsoft-surface-go-2-10-5-1643981162.jpg?t=resize&h=600&w=800"
+    },
+    {
+      "id": 30,
+      "name": "ASUS ZenPad",
+      "price": 249,
+      "description": "A stylish tablet with 8-inch FHD display, octa-core processor, and ASUS Pen support.",
+      "tags": [
+        "Tablet"
+      ],
+      "brand": "ASUS",
+      "image": "https://www.notebookcheck.com/fileadmin/_processed_/csm_Asus_Zenpad_10.0_Teaser_3d514c7fb6.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Samsung Galaxy Note 20 Ultra",
+      "price": 999,
+      "description": "A powerful smartphone with 6.9-inch AMOLED display, Exynos 990 processor, and S Pen support.",
+      "tags": [
+        "Smartphone"
+      ],
+      "brand": "Samsung",
+      "image": "https://files.refurbed.com/ii/samsung-glxy-note-20-ultra-1604509077.jpg?t=resize&h=600&w=800"
+    },
+    {
+      "id": 32,
+      "name": "Apple iPhone 11 Pro",
+      "price": 799,
+      "description": "A premium smartphone with 5.8-inch Super Retina XDR display, A13 Bionic chip, and triple-camera system.",
+      "tags": [
+        "Smartphone"
+      ],
+      "brand": "Apple",
+      "image": "https://files.refurbed.com/ii/iphone-11-pro-1568192028.jpg?t=resize&h=600&w=800"
+    },
+    {
+      "id": 33,
+      "name": "Xiaomi Mi 10T Pro",
+      "price": 499,
+      "description": "A flagship smartphone with 6.67-inch FHD+ display, Snapdragon 865 processor, and 108MP camera.",
+      "tags": [
+        "Smartphone"
+      ],
+      "brand": "Xiaomi",
+      "image": "https://files.refurbed.com/ii/xiaomi-mi-10t-pro-5g-1608619785.jpg?t=resize&h=600&w=800"
+    },
+    {
+      "id": 34,
+      "name": "Oppo Find X2 Pro",
+      "price": 999,
+      "description": "A premium smartphone with 6.7-inch QHD+ display, Snapdragon 865 processor, and 50MP camera.",
+      "tags": [
+        "Smartphone"
+      ],
+      "brand": "Oppo",
+      "image": "https://files.refurbed.com/ii/oppo-find-x2-pro-1601287452.jpg?t=resize&h=600&w=800"
+    },
+    {
+      "id": 35,
+      "name": "Realme X50 Pro",
+      "price": 599,
+      "description": "A flagship smartphone with 6.44-inch FHD+ display, Snapdragon 865 processor, and 64MP camera.",
+      "tags": [
+        "Smartphone"
+      ],
+      "brand": "Realme",
+      "image": "https://gzhls.at/i/80/82/2288082-n0.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Autodesk AutoCAD - Monthly Subscription",
+      "price": 220,
+      "description": "Get access to the latest version of Autodesk AutoCAD for 2D and 3D CAD design and drafting.",
+      "tags": [
+        "Software"
+      ],
+      "brand": "Autodesk",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Autodesk_Logo_A_only.svg"
+    },
+    {
+      "id": 37,
+      "name": "Final Cut Pro X - Lifetime Subscription",
+      "price": 299.99,
+      "description": "Get the latest version of Final Cut Pro X, the leading video editing software for Mac.",
+      "tags": [
+        "Software"
+      ],
+      "brand": "Apple",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png"
+    },
+    {
+      "id": 38,
+      "name": "Sketch - Monthly Subscription",
+      "price": 99,
+      "description": "Get access to the latest version of Sketch, the digital design tool for UX/UI design.",
+      "tags": [
+        "Software"
+      ],
+      "brand": "Sketch",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg"
+    },
+    {
+      "id": 39,
+      "name": "Avid Pro Tools - Monthly Subscription",
+      "price": 29.99,
+      "description": "Get access to the latest version of Avid Pro Tools, the industry standard for digital audio workstations.",
+      "tags": [
+        "Software"
+      ],
+      "brand": "Avid",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/PT2019.png/480px-PT2019.png"
+    },
+    {
+      "id": 40,
+      "name": "Trello - Monthly Subscription",
+      "price": 9.99,
+      "description": "Get access to the latest version of Trello, the project management tool for team collaboration and organization.",
+      "tags": [
+        "Software"
+      ],
+      "brand": "Trello",
+      "image": "https://avatars.slack-edge.com/2021-07-19/2282472048054_9a51d280179d828b3ad7_512.png"
+    },
+    {
+      "id": 41,
+      "name": "Apple HomePod Mini",
+      "price": 99.00,
+      "description": "A compact and smart speaker that provides an exceptional audio experience and a sophisticated design.",
+      "tags": [
+        "Smart Speaker"
+      ],
+      "brand": "Apple",
+      "image": "https://files.refurbed.com/ii/apple-homepod-mini-1661342310.jpg?t=resize&h=600&w=800"
+    },
+    {
+      "id": 42,
+      "name": "Harman Kardon Allure Portable",
+      "price": 199.00,
+      "description": "A portable smart speaker that features Alexa voice control, 360-degree sound, and premium audio quality.",
+      "tags": [
+        "Smart Speaker"
+      ],
+      "brand": "Harman Kardon",
+      "image": "https://www.harmankardon.at/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw552323da/Allure_Portable_Hero-1605x1605px.png"
+    },
+    {
+      "id": 43,
+      "name": "Bose Home Speaker 500",
+      "price": 299.00,
+      "description": "A sleek and powerful smart speaker that provides exceptional sound quality and a sophisticated design.",
+      "tags": [
+        "Smart Speaker"
+      ],
+      "brand": "Bose",
+      "image": "https://gzhls.at/i/72/17/1877217-n0.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Canon EOS R6",
+      "price": 2199,
+      "description": "A high-performance mirrorless camera with a 20.1-megapixel full-frame sensor, Dual Pixel CMOS AF system, and 5-axis in-body image stabilization",
+      "tags": [
+        "Camera"
+      ],
+      "brand": "Canon",
+      "image": "https://gzhls.at/i/75/33/2327533-n0.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Panasonic Lumix GH5",
+      "price": 1799,
+      "description": "A professional video camera with a 20.3-megapixel micro four thirds sensor, 4K 60p recording, and dual IS 2 stabilization",
+      "tags": [
+        "Camera"
+      ],
+      "brand": "Panasonic",
+      "image": "https://gzhls.at/i/80/95/1558095-n0.jpg"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "items": [
+        {
+            "id": 19,
+            "name": "Adobe Creative Cloud All Apps Plan - Monthly Subscription",
+            "price": 52.99,
+            "description": "Get access to all 20+ Adobe creative desktop and mobile apps, including Photoshop, Illustrator, InDesign, and more.",
+            "tags": [
+                "Software"
+            ],
+            "brand": "Adobe",
+            "image": "https://www.adobe.com/content/dam/shared/images/product-icons/svg/creative-cloud.svg",
+            "count": 20
+        }
+    ]
+}

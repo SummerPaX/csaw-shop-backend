@@ -1,0 +1,91 @@
+POST http://{{host}}/auth/sign-up
+Content-Type: application/json
+
+{
+  "firstName": "Firsty",
+  "lastName": "Lasty",
+  "email": "firsty.lasty@example.com",
+  "password": "12345678"
+}
+
+###
+POST http://{{host}}/auth/login
+Content-Type: application/json
+
+{
+  "username": "{{username}}",
+  "password": "{{password}}"
+}
+
+> {%
+    client.global.set("token", response.body.access_token);
+%}
+###
+
+GET http://{{host}}/products
+
+###
+
+GET http://{{host}}/products/tags
+
+###
+
+GET http://{{host}}/products/1
+
+###
+
+GET http://{{host}}/products/Computers
+
+###
+
+GET http://{{host}}/auth/check-email?email={{username}}@example.com
+
+###
+
+GET http://{{host}}/todos
+Authorization: Bearer {{token}}
+
+###
+
+GET http://{{host}}/tickets
+Authorization: Bearer {{token}}
+
+###
+
+GET http://{{host}}/tickets/settings
+Authorization: Bearer {{token}}
+
+###
+
+POST http://{{host}}/tickets
+Content-Type: application/json
+
+{
+  "title": "Test Task",
+  "description": "Some description",
+  "priority": "normal",
+  "status": "planned",
+  "color": "#ff55ff"
+}
+
+###
+
+PATCH http://{{host}}/tickets/1
+Content-Type: application/json
+
+{
+  "title": "Test Task changed!"
+}
+
+###
+
+DELETE http://{{host}}/tickets/1
+
+### Used to delete the auth token
+
+POST http://{{host}}/auth/logout
+Authorization: Bearer {{token}}
+
+> {%
+    client.global.clear("token");
+%}
