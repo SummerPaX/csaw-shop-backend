@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) backend for csaw Shop Application.
 
 ## Installation
 
@@ -35,28 +35,12 @@ $ npm install
 ## Running the app
 
 ```bash
-# development
 $ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
 ```
 
-## Test
+## API Docs
 
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
+<a href="http://localhost:3000/api" target="_blank">Swagger Doku</a>
 
 ## Login
 
