@@ -1,17 +1,11 @@
-import { IdEntity } from './crud-storage'
-import { CrudServiceInterface } from './crud-service.interface'
+import { HttpException, HttpStatus } from '@nestjs/common'
 import { JsonDB } from 'node-json-db'
 import { getDatabase } from '../db.service'
-import { HttpException, HttpStatus } from '@nestjs/common'
+import { IdEntity } from './crud-storage'
 
 const INITIAL_ID = 0
 
-export abstract class PersistedDummyService<
-  T extends IdEntity,
-  CreateEntity,
-  UpdateEntity extends IdEntity,
-> implements CrudServiceInterface<T, CreateEntity, UpdateEntity>
-{
+export abstract class PersistedDummyService<T extends IdEntity, CreateEntity, UpdateEntity extends IdEntity> {
   db: JsonDB
   lastId = INITIAL_ID
 
@@ -57,10 +51,7 @@ export abstract class PersistedDummyService<
     const item = this.findAll().find((item) => item.id === id)
 
     if (!item) {
-      throw new HttpException(
-        'Element with id ' + id + ' not found',
-        HttpStatus.NOT_FOUND,
-      )
+      throw new HttpException('Element with id ' + id + ' not found', HttpStatus.NOT_FOUND)
     }
 
     return item
