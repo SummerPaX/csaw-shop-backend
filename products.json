@@ -229,7 +229,7 @@
                 "Tablet"
             ],
             "brand": "Apple",
-            "image": "https://files.refurbed.com/ii/ipad-pro-11-inch-1666678054.jpg?t=resize&h=600&w=800"
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-ipad-pro-11-wifi-spacegray-2020?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1627667236000"
         },
         {
             "id": 22,
@@ -240,7 +240,7 @@
                 "Tablet"
             ],
             "brand": "Samsung",
-            "image": "https://files.refurbed.com/ii/samsung-galaxy-tab-s7-1666678054.jpg?t=resize&h=600&w=800"
+            "image": "https://files.refurbed.com/ii/samsung-glxy-tab-s7-1653652371.jpg?t=resize&h=600&w=800"
         },
         {
             "id": 23,
@@ -251,7 +251,7 @@
                 "Tablet"
             ],
             "brand": "Microsoft",
-            "image": "https://files.refurbed.com/ii/microsoft-surface-pro-7-1666678054.jpg?t=resize&h=600&w=800"
+            "image": "https://files.refurbed.com/ii/microsoft-surface-pro-7-1035g4-1657711113.jpg?t=resize&h=600&w=800"
         },
         {
             "id": 24,
@@ -262,7 +262,7 @@
                 "Tablet"
             ],
             "brand": "Amazon",
-            "image": "https://files.refurbed.com/ii/amazon-fire-hd-10-1666678054.jpg?t=resize&h=600&w=800"
+            "image": "https://www.notebookcheck.com/fileadmin/_processed_/2/2/csm_Intro_Amazon_Fire_HD_10_2017_2371deda4d.jpg"
         },
         {
             "id": 25,
@@ -273,18 +273,18 @@
                 "Tablet"
             ],
             "brand": "Lenovo",
-            "image": "https://files.refurbed.com/ii/lenovo-yoga-tablet-1666678054.jpg?t=resize&h=600&w=800"
+            "image": "https://www.notebookcheck.com/fileadmin/_processed_/csm_Lenovo_Yoga_Tablet_2_Pro_13_A_Hero__f2f2f62b38.jpg"
         },
         {
             "id": 26,
             "name": "Samsung Galaxy Tab S7 +",
             "price": 699,
-            "description": "A premium tablet with 11-inch AMOLED display, Snapdragon 865+ processor, and 5G connectivity.",
+            "description": "A premium tablet with 12,4-inch AMOLED display, Snapdragon 865+ processor, and 5G connectivity.",
             "tags": [
                 "Tablet"
             ],
             "brand": "Samsung",
-            "image": "https://files.refurbed.com/ii/samsung-galaxy-tab-s7-1666678054.jpg?t=resize&h=600&w=800"
+            "image": "https://files.refurbed.com/ii/samsung-glxy-tab-s7-plus-t976-1666339932.jpg?t=resize&h=600&w=800"
         },
         {
             "id": 27,
@@ -295,7 +295,7 @@
                 "Tablet"
             ],
             "brand": "Apple",
-            "image": "https://files.refurbed.com/ii/ipad-pro-11-inch-wi-fi-cellular-1666678054.jpg?t=resize&h=600&w=800"
+            "image": "https://files.refurbed.com/ii/64-gb-spacegrau-wifi-1563859118.jpg?t=resize&h=600&w=800"
         },
         {
             "id": 28,
@@ -306,7 +306,7 @@
                 "Tablet"
             ],
             "brand": "Huawei",
-            "image": "https://files.refurbed.com/ii/huawei-matepad-t8-1666678054.jpg?t=resize&h=600&w=800"
+            "image": "https://static10.edstatic.net/product_images/470x470/resize/02-qny7qup5_u8yf9thr.jpg?v=1"
         },
         {
             "id": 29,
@@ -317,7 +317,7 @@
                 "Tablet"
             ],
             "brand": "Microsoft",
-            "image": "https://files.refurbed.com/ii/microsoft-surface-go-2-1666678054.jpg?t=resize&h=600&w=800"
+            "image": "https://files.refurbed.com/pi/microsoft-surface-go-2-10-5-1643981162.jpg?t=resize&h=600&w=800"
         },
         {
             "id": 30,
@@ -328,7 +328,7 @@
                 "Tablet"
             ],
             "brand": "ASUS",
-            "image": "https://files.refurbed.com/ii/asus-zenpad-1666678054.jpg?t=resize&h=600&w=800"
+            "image": "https://www.notebookcheck.com/fileadmin/_processed_/csm_Asus_Zenpad_10.0_Teaser_3d514c7fb6.jpg"
         },
         {
             "id": 31,
@@ -339,7 +339,7 @@
                 "Smartphone"
             ],
             "brand": "Samsung",
-            "image": "https://files.refurbed.com/ii/samsung-galaxy-note-20-ultra-1666678054.jpg?t=resize&h=600&w=800"
+            "image": "https://files.refurbed.com/ii/samsung-glxy-note-20-ultra-1604509077.jpg?t=resize&h=600&w=800"
         },
         {
             "id": 32,
@@ -350,7 +350,7 @@
                 "Smartphone"
             ],
             "brand": "Apple",
-            "image": "https://files.refurbed.com/ii/apple-iphone-11-pro-1666678054.jpg?t=resize&h=600&w=800"
+            "image": "https://files.refurbed.com/ii/iphone-11-pro-1568192028.jpg?t=resize&h=600&w=800"
         },
         {
             "id": 33,
@@ -361,7 +361,7 @@
                 "Smartphone"
             ],
             "brand": "Xiaomi",
-            "image": "https://files.refurbed.com/ii/xiaomi-mi-10t-pro-1666678054.jpg?t=resize&h=600&w=800"
+            "image": "https://files.refurbed.com/ii/xiaomi-mi-10t-pro-5g-1608619785.jpg?t=resize&h=600&w=800"
         },
         {
             "id": 34,
@@ -372,7 +372,7 @@
                 "Smartphone"
             ],
             "brand": "Oppo",
-            "image": "https://files.refurbed.com/ii/oppo-find-x2-pro-1666678054.jpg?t=resize&h=600&w=800"
+            "image": "https://files.refurbed.com/ii/oppo-find-x2-pro-1601287452.jpg?t=resize&h=600&w=800"
         },
         {
             "id": 35,
@@ -383,7 +383,7 @@
                 "Smartphone"
             ],
             "brand": "Realme",
-            "image": "https://files.refurbed.com/ii/realme-x50-pro-1666678054.jpg?t=resize&h=600&w=800"
+            "image": "https://gzhls.at/i/80/82/2288082-n0.jpg"
         },
         {
             "id": 36,
@@ -394,7 +394,7 @@
                 "Software"
             ],
             "brand": "Autodesk",
-            "image": "https://i.ytimg.com/vi/b_gAquOtEZg/maxresdefault.jpg"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Autodesk_Logo_A_only.svg"
         },
         {
             "id": 37,
@@ -405,7 +405,7 @@
                 "Software"
             ],
             "brand": "Apple",
-            "image": "https://www.macupdate.com/images/icons256/48398.png"
+            "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png"
         },
         {
             "id": 38,
@@ -416,7 +416,7 @@
                 "Software"
             ],
             "brand": "Sketch",
-            "image": "https://miro.medium.com/max/1000/0*hWUetvShUJwn6U0b."
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg"
         },
         {
             "id": 39,
@@ -427,7 +427,7 @@
                 "Software"
             ],
             "brand": "Avid",
-            "image": "https://www.pro-tools-expert.com/wp-content/uploads/2016/07/Avid-Pro-Tools-12.png"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/PT2019.png/480px-PT2019.png"
         },
         {
             "id": 40,
@@ -438,7 +438,62 @@
                 "Software"
             ],
             "brand": "Trello",
-            "image": "https://pbs.twimg.com/profile_images/676286898763341824/2MAw__4u.png"
+            "image": "https://avatars.slack-edge.com/2021-07-19/2282472048054_9a51d280179d828b3ad7_512.png"
+        },
+        {
+            "id": 41,
+            "name": "Apple HomePod Mini",
+            "price": 99.00,
+            "description": "A compact and smart speaker that provides an exceptional audio experience and a sophisticated design.",
+            "tags": [
+                "Smart Speaker"
+            ],
+            "brand": "Apple",
+            "image": "https://files.refurbed.com/ii/apple-homepod-mini-1661342310.jpg?t=resize&h=600&w=800"
+        },
+        {
+            "id": 42,
+            "name": "Harman Kardon Allure Portable",
+            "price": 199.00,
+            "description": "A portable smart speaker that features Alexa voice control, 360-degree sound, and premium audio quality.",
+            "tags": [
+                "Smart Speaker"
+            ],
+            "brand": "Harman Kardon",
+            "image": "https://www.harmankardon.at/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw552323da/Allure_Portable_Hero-1605x1605px.png"
+        },
+        {
+            "id": 43,
+            "name": "Bose Home Speaker 500",
+            "price": 299.00,
+            "description": "A sleek and powerful smart speaker that provides exceptional sound quality and a sophisticated design.",
+            "tags": [
+                "Smart Speaker"
+            ],
+            "brand": "Bose",
+            "image": "https://gzhls.at/i/72/17/1877217-n0.jpg"
+        },
+        {
+            "id": 44,
+            "name": "Canon EOS R6",
+            "price": 2199,
+            "description": "A high-performance mirrorless camera with a 20.1-megapixel full-frame sensor, Dual Pixel CMOS AF system, and 5-axis in-body image stabilization",
+            "tags": [
+                "Camera"
+            ],
+            "brand": "Canon",
+            "image": "https://gzhls.at/i/75/33/2327533-n0.jpg"
+        },
+        {
+            "id": 45,
+            "name": "Panasonic Lumix GH5",
+            "price": 1799,
+            "description": "A professional video camera with a 20.3-megapixel micro four thirds sensor, 4K 60p recording, and dual IS 2 stabilization",
+            "tags": [
+                "Camera"
+            ],
+            "brand": "Panasonic",
+            "image": "https://gzhls.at/i/80/95/1558095-n0.jpg"
         }
     ]
 }

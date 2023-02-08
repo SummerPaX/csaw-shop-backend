@@ -47,10 +47,7 @@ export class CrudStorage<T extends IdEntity> {
     const found = this.items.find((item) => item.id === id)
 
     if (!found) {
-      throw new HttpException(
-        'Entity with id ' + id + ' not found',
-        HttpStatus.NOT_FOUND,
-      )
+      throw new HttpException('Entity with id ' + id + ' not found', HttpStatus.NOT_FOUND)
     }
 
     return found
